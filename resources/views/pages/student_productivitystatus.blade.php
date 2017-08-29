@@ -13,10 +13,10 @@
     
         <tr>
            
-            <th>Application ID<i><br>01</br></i><i><br>02</br></i></th>
-         <font color="blue">   <th>Application Name<i><br>Google Chrome</br></i><i><br>Viber</br></i></th></font>
-            <th>Starting Time<i><br>1:20 p.m</br></i><i><br>4:00 p.m</br></i></th>
-            <th>End Time<i><br>3:50 p.m</br></i><i><br>4:30 p.m</br></i></th>
+            <th>Application ID</th>
+            <th>Application Name</th>
+            <th>Starting Time</th>
+            <th>End Time</th>
         </tr>
     </thead>
    @foreach($app as $app)
